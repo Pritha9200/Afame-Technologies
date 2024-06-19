@@ -22,7 +22,7 @@ ratings and allows to build a model that can estimate the ratings of movies accu
 3) Matplotlib
 4) Seaborn
 5) Plotly
-** (At the time of feature engineering 1 more library is needed that is sickit-learn)
+** (At the time of feature engineering 1 more library is needed that is scikit-learn)
 
 ### Step 2
 Mounting the drive to get the data set load and then read the dataset.
