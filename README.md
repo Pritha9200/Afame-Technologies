@@ -35,7 +35,7 @@ Then dropped the null values and the duplicate values. Then get the names of the
 ### Step 4
 ##### Data Pre-processing
 Replacing the unwanted brackets from 'Year' index entities. Then 'Duration' colunm values are changed from string data 
-type to numeric data type. Convert unique values of the Gnere column and set mode.
+type to numeric data type. Convert unique values of the Genre column and set mode.
 
 ### Step 5
 ##### Data Visualization
