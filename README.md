@@ -1,7 +1,9 @@
 # Afame-Technologies
-This repository contains my Data Science internship project work. Here MOVIE RATING PREDICTION project I have done.
+This repository contains my Data Science internship project work. Here MOVIE RATING PREDICTION and SALES PREDICTION project I have done.
 
-## Objective -
+# Project 1
+## MOVIE RATING PREDICTION USING PYTHON
+### Objective -
 1.Building a model that predicts the rating of a movie based on features like genre, director, and actors. Have
 can use regression techniques to tackle this problem.
 
@@ -29,7 +31,7 @@ Mounting the drive to get the data set load and then read the dataset.
 
 ### Step 3
 ##### Data Cleaning
-Checking for null value is present in the dataset or not. Then get the information about teh dataset. Then checking for duplicate value.
+Checking for a null value is present in the dataset or not. Then get the information about the dataset. Then check for duplicate values.
 Then dropped the null values and the duplicate values. Then get the names of the columns.
 
 ### Step 4
@@ -64,6 +66,49 @@ type to numeric data type. Convert unique values of the Genre column and set mod
 3) Display the predicted result.
 
 So we are getting a satisfying prediction.
+
+# Project 2
+## SALES PREDICTION USING PYTHON
+
+### Objective –
+•	Sales prediction involves forecasting the amount of a product that customers will purchase, taking into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection.
+•	In businesses that offer products or services, the role of a Data Scientist is crucial for predicting future sales. They utilize machine learning techniques in Python to analyze and interpret data, allowing them to make informed decisions regarding advertising costs. By leveraging these predictions, businesses can optimize their advertising strategies and maximize sales potential.
+
+### INDEXES
+
+‘TV’, ‘Radio’, ‘Newspaper’
+
+#### Step1
+1.	Pandas
+2.	Matplotlib
+3.	Seaborn
+4.	Scikit learn
+
+#### Step2
+Mounting the drive to get the data set load and then read the dataset.
+
+#### Step3
+Data Visualisation
+Visualize the relationship between the Sales and TV, Radio, Newspaper individually. Plot the scatter plots for each of that.
+
+#### Step4
+Define features and target
+Have defined the depended variable as y and independent variables by X. Here independent variables are TV, Radio, Newspaper. And dependent variable is y. We have to predict y (Sales).
+
+#### Step5
+Split the data and train the model. 
+
+#### Step6
+Predict the model and evaluate the model.
+
+#### Step7
+Example prediction
+Predict by putting a new value of the independent variable.
+
+
+
+
+
 
 
 
